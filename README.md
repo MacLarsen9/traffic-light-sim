@@ -15,3 +15,5 @@ The green LEDs organized in a row represent possible vehicle locations before an
 ## Software 
 
 This project was implemented with documentaion in the main.c file provided. FreeRTOS was used to implement software timers, tasks, and queues that pass state between eachother, rather than making use of a polling loop.
+
+The code we implemented for this project can be found at [src/main.c](src/main.c).
